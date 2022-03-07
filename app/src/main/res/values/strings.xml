@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Azam</string>
+    <string name="select">Select Item</string>
+    <string name="title_activity_eye_doctor">Eye_doctor</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111191622452",
+    "project_id": "azam-26314",
+    "storage_bucket": "azam-26314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111191622452:android:103aee846c294075eb1b61",
+        "android_client_info": {
+          "package_name": "com.example.azam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111191622452-o3ntbqfv2v0rdfrm2nmoag1d6ckbrdua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDwGxYXw_gaupE2t3NrX96ro-ttPzsHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111191622452-o3ntbqfv2v0rdfrm2nmoag1d6ckbrdua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

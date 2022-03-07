@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_appoint_profile_view.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_appointment.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_bones.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_brain.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_brain_doctor.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_dashboard.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_doctor_pannel.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_doctor_profile.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_doctor_pview.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_ear_doctor.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_eye_doctor.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_heart_doctor.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_kidney_doctor.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_lung_doctor.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_main.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_main_dashboard.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_mypatient_list.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_profile.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_teeth_doctor.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/activity_user_profile.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/doctor_dasboard_activity.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/list_item.xml" value="0.2609375" />
+        <entry key="..\:/299_main_app/app/src/main/res/layout/main_fragment.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_appoint_profile_view.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_appointment.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_bones.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_brain_doctor.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_dashboard.xml" value="0.2569230769230769" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_doctor_pannel.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_doctor_profile.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_doctor_pview.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_ear_doctor.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_eye_doctor.xml" value="0.134375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_heart_doctor.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_kidney_doctor.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_lung_doctor.xml" value="0.246875" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_mypatient_list.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_teeth_doctor.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/activity_user_profile.xml" value="0.2569230769230769" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/doctor_dasboard_activity.xml" value="0.2569230769230769" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/singlerow.xml" value="0.2609375" />
+        <entry key="..\:/Cse 299 last update/299/app/src/main/res/layout/usersinglerow.xml" value="0.2609375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_appointment.xml" value="0.2609375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_brain.xml" value="0.2609375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_dashboard.xml" value="0.2609375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_doctor_login.xml" value="0.134375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_doctor_pannel.xml" value="0.2609375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_doctor_register.xml" value="0.2569230769230769" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_login.xml" value="0.2609375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_main_dashboard.xml" value="0.134375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_profile.xml" value="0.2609375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_register.xml" value="0.2569230769230769" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_test.xml" value="0.2609375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/activity_user_profile.xml" value="0.2609375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/list_item.xml" value="0.2609375" />
+        <entry key="..\:/New folder (2)/299/app/src/main/res/layout/singlerow.xml" value="0.2609375" />
+        <entry key="..\:/Users/AIA/Desktop/299/app/src/main/res/drawable/button_rounded.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/AIA/Desktop/299/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Users/AIA/Desktop/299/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/AIA/Desktop/299/app/src/main/res/layout/activity_register.xml" value="0.259375" />
+        <entry key="app/src/main/res/drawable-v24/button_rounded.xml" value="0.18125" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.114" />
+        <entry key="app/src/main/res/drawable/ic_searchbutton.xml" value="0.2635" />
+        <entry key="app/src/main/res/layout/activity_appointment.xml" value="0.24895833333333334" />
+        <entry key="app/src/main/res/layout/activity_bones.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_brain.xml" value="0.2630208333333333" />
+        <entry key="app/src/main/res/layout/activity_brain_doctor.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.2563405797101449" />
+        <entry key="app/src/main/res/layout/activity_dector_pview.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/activity_doctor_login.xml" value="0.1609375" />
+        <entry key="app/src/main/res/layout/activity_doctor_pannel.xml" value="0.2630208333333333" />
+        <entry key="app/src/main/res/layout/activity_doctor_pview.xml" value="0.24895833333333334" />
+        <entry key="app/src/main/res/layout/activity_doctor_register.xml" value="0.1974921630094044" />
+        <entry key="app/src/main/res/layout/activity_ear_doctor.xml" value="0.2006340579710145" />
+        <entry key="app/src/main/res/layout/activity_eye_doctor.xml" value="0.24895833333333334" />
+        <entry key="app/src/main/res/layout/activity_heart_doctor.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_kidney_doctor.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.3079710144927536" />
+        <entry key="app/src/main/res/layout/activity_lung_doctor.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_main_dashboard.xml" value="0.3079710144927536" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.2006340579710145" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_teeth_doctor.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/doctor_dasboard_activity.xml" value="0.24895833333333334" />
+        <entry key="app/src/main/res/layout/main_fragment.xml" value="0.24895833333333334" />
+        <entry key="app/src/main/res/layout/singlerow.xml" value="0.2630208333333333" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.114" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.azam">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Healer"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Azam">
+        <activity
+            android:name=".MypatientList"
+            android:exported="false" />
+        <activity
+            android:name=".Appoint_profileView"
+            android:exported="false" />
+        <activity
+            android:name=".Doctor_profile"
+            android:exported="false" />
+        <activity
+            android:name=".Brain_doctor"
+            android:exported="false" />
+        <activity
+            android:name=".Teeth_doctor"
+            android:exported="false" />
+        <activity
+            android:name=".Bones"
+            android:exported="false" />
+        <activity
+            android:name=".Ear_doctor"
+            android:exported="false" />
+        <activity
+            android:name=".Kidney_doctor"
+            android:exported="false" />
+        <activity
+            android:name=".Lung_doctor"
+            android:exported="false" />
+        <activity
+            android:name=".Heart_doctor"
+            android:exported="false" />
+        <activity
+            android:name=".DoctorPview"
+            android:exported="false" />
+        <activity
+            android:name=".Eye_doctor"
+            android:exported="false" />
+        <activity
+            android:name=".UserProfile"
+            android:exported="false" />
+        <activity
+            android:name=".test"
+            android:exported="true" />
+        <activity
+            android:name=".brain"
+            android:exported="false" />
+        <activity
+            android:name=".Doctor_Pannel"
+            android:exported="false" />
+        <activity
+            android:name=".Appointment"
+            android:exported="false" />
+        <activity
+            android:name=".Doctor_dasboard"
+            android:exported="false" />
+        <activity
+            android:name=".Doctor_register"
+            android:exported="false" />
+        <activity
+            android:name=".Doctor_login"
+            android:exported="false" />
+        <activity
+            android:name=".Main_dashboard"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Dashboard"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
